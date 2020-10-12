@@ -1,36 +1,10 @@
 # dm-algorithms
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar dm-algorithms-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+The goal of this project is to exemplify various algorithms useful for Data Mining in a functional programming style.
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Tobias Ritter
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
