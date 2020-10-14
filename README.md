@@ -1,6 +1,6 @@
 # dm-algorithms
 
-The goal of this project is to exemplify various algorithms useful for Data Mining in a functional programming style.
+The goal of this project is to exemplify various algorithms useful for Data Mining in a functional programming style. It contains supervised and unsupervised algorithms discussed during the *Data Mining and Machine Learning* lecture at DHBW Stuttgart.
 
 ## License
 
